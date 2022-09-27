@@ -1,0 +1,5 @@
+- Produces metal, ceramic & plastics up to 8x4x4 metres.
+-
+- They are able to produce metal, plastic and ceramic components with an accuracy of 30 microns up to 8 x 4 x 4 metres in sizes with their in-house proprietary systems, while systems on sale are capable of 40 micron accuracy within a volume of 5 x 2.5 x 2.5 metres ($750,000).
+- Their mobile printer designs can achieve 3,000 micron accuracies laying at 0.5 litres per second in an unlimited volume of simple metals and plastics with a power requirement of 60 kW for $500,000. The high precision systems consume 50 kW to lay 0.5 litres of material per 20 seconds.
+- This material is laid across the entire surface before laser sintering. The time to produce a part is hence given by the height of the part in millimetres multiplied by 500 to give the time in seconds. This formula can also be applied to the purchased high precision machines. 3D Logistics will charge per second for use of their in-house machines ($0.05, $0.20, and $0.40 for plastics, metals, and ceramics respectively).

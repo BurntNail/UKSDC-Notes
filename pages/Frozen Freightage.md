@@ -1,0 +1,5 @@
+- Provides [[CASSSC]] units for transport of everything.
+-
+- Frozen Freightage modifies special order CASSSCs with equipment to allow for the pressurised, isothermal, and sterile transportation of special requirements cargo. These heavily specialised CASSSCs require a near constant power source, usually running off the spacecraft’s electrical system, and have all their thermal insulation and cooling built in.
+- The equipment and insulation to keep cargo at a specified constant temperature anywhere between 120K and 290K takes up space inside the CASSSC, reducing the usable volume to 5 metres long with a 2 metre square cross section. The empty mass of the CASSSC has also been increased to 10 metric tonnes.
+- They buy and then modify CASSSCs at Alexandriat, selling them on for $90,000 each.

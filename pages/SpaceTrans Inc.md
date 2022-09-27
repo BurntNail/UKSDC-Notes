@@ -1,0 +1,3 @@
+- Provides unscheduled transport in Earth Orbit for $50/kg/day of travel.
+-
+- SpaceTrans Inc can provide regular but unscheduled transportation services between locations in Earth orbit, including space stations, major commercial sites and future settlements. Rates average $2,000 per person and/or $50 per kg of cargo, per day of travel.

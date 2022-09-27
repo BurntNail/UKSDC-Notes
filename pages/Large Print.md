@@ -1,0 +1,4 @@
+- Produce vacuum 3D printers for Superadobe for $450k.
+-
+- Their mobile printer designs are capable of operating in a vacuum and can achieve 10 mm accuracies as they deposit Superadobe at a rate of 1 litre per second. Their print volume is unrestricted.
+- Each unit costs $450,000 and is supplied from Alaskol.

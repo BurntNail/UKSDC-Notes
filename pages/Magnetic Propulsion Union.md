@@ -1,0 +1,3 @@
+- Produces mass drivers.
+-
+- MPU offer to build mass drivers with a muzzle momentum of up 120,000 kgms-1. The price of such a system is based on the length of the mass driver, costing $50,000,000 per kilometer, and massing in at 98,000,000 kg per kilometre. The mass driver will impart 6000 kgms-1 per kilometre of length. Shipping is not included. The mass driver transfers energy to projectiles with a 60% efficiency.

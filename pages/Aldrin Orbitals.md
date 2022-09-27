@@ -1,0 +1,4 @@
+- Provides passage between Earth & Mars.
+-
+- Aldrin Orbitals allow for the transport of passengers between Earth and Mars and vice versa. They specifically operate between the space ports of Columbiat and Aresam.
+- Benevectoras is actually 6 separate spacecraft, allowing transfers from Earth to Mars and Mars to Earth almost every 8 months. One-way tickets cost $700 per day for the 146 day transit.

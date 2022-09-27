@@ -1,0 +1,4 @@
+- Produces RISC-V Electronic Devices.
+-
+- Personal PCBs manufacture pretty much any electronic device using a large variety of consumer and professional chips based on RISC-V instruction set, and their open source derivatives.
+- Using material gained from asteroid mining, their electronics have prices comparable to custom electronics found on earth. All their electronics have a 4 year warranty (dependent on proof of shielding and good power regulation) and are shock and acceleration resistant.

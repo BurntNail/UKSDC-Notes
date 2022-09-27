@@ -1,0 +1,4 @@
+- Produces shipping for hazardous materials.
+-
+- Dangerous Packages is a transportation company that specialises in the controversial movement of hazardous material from one location to another. This includes the nuclear material that is used in nuclear fission power generation.
+- Based at Alexandriat, their spacecraft are crewed, and charge $25,000 a day for the transportation of up to 5,000 kg of hazardous material to anywhere in orbit in the inner solar system.

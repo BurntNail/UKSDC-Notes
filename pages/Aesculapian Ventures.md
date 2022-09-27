@@ -1,0 +1,3 @@
+- Provides Hospitals, Hospices in LEO & 3D Printers for organs.
+-
+- Their main business is managing a series of hospitals and hospices in LEO, but they sell 3D printers that can manufacture artificial organs for use in settlements for $50,000,000 each. They also act as the main manufacturer and supplier for all settlements in cislunar space and beyond for more mundane medical and pharmaceutical supplies.

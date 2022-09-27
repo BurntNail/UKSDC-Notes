@@ -1,0 +1,3 @@
+- Provides a data-heavy link that is very expensive to earth.
+-
+- Individuals who insist on transmitting and receiving data-hogging video and interactive real-time data with Earth-based services do so by paying exorbitant fees to OrbitLink. The company has made arrangements to place one of its antennas and dedicated fibre optics links on every Foundation Society settlement at zero cost, however transmissions through it are charged per byte. It is, therefore, unsustainable for primary communications.

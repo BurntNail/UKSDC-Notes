@@ -1,0 +1,4 @@
+- Ships Nitrogen, Hydrogen & Oxygen in #CASSSC units
+-
+- Nitrogen-Hydro ships nitrogen, oxygen, and clean water from its facilities. Liquid nitrogen and water are shipped in sealed CASSSC’s from their production facilities at Alaskol and Argonom.
+- Liquid nitrogen is priced at $0.15 per litre, liquid oxygen at $1.5 per litre, while the flagship product, water, is priced $5 per litre.

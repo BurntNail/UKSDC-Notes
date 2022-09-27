@@ -1,0 +1,4 @@
+- Produces wire harnesses for distributing electrical power.
+-
+- Distributed Power Systems is the leading supplier of wire harnesses for distribution of electrical power, and fibre optics for electronic signals on spacecraft, manufacturing them for traditional prices at Alexandriat.
+- The company’s latest venture is a system for zero-g manufacturing of solar cells from materials available in silicate asteroids. Distributed Power Systems sells each of these units, which can be transported as an 8 CASSSC block, for $80,000,000, not including transportation to deposit it on an appropriate asteroid where it produces square 0.5 m solar panels at the rate of 100 per day, each of which is capable of 38% efficiency and weighs 1 kg.

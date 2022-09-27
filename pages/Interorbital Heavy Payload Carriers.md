@@ -1,0 +1,4 @@
+- Provides mass movement of [[CASSSC]] units with low fees, but must provide DV calculations and use tugs for the last/first miles.
+-
+- A single IHPC craft can move over 1000 fully loaded CASSSCs at once to almost anywhere in the inner solar system through the use of efficient Hohmann transfers. These massive ships offer some of the lowest cargo fees of any transportation company, coming in at $3.95 per tonne per m/s of Delta V. The customer must make the necessary calculations of Delta V and account for the transport mass when booking cargo space on the ship.
+- Their spacecraft, due to their size, cannot dock with settlements and require specialist portside equipment that is only available at certain spaceports (Columbiat, Aresam, and Astoria) or require tugs to collect delivered CASSSCs from free space.

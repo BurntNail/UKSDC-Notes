@@ -1,0 +1,6 @@
+- Produces programmed nanobots.
+-
+- Programmed nanobots sell by the troy ounce (31.10 grammes) at roughly 10 times the cost of platinum (~$10,500), when delivered they resemble a fine powder the customer applies as a thin layer to the working surface. Service life is one to five Earth years, depending on operating environment and application. In a hard radiation environment such as space, the nanobots have been found to have a half-life of 1 year.
+- Nano Solutions reprograms nanobots for new tasks (compatible with their original application) for a modest fee. Consultation about the capabilities of the nanobots is required prior to commissioning, however Nano Solutions has committed to a cost of $8,000 per task to be known by each troy ounce of nanobots.
+-
+- For applications regarding construction using nanobots, due to previous research contributions, #[[Earhart Advanced Industries]]  has negotiated a 20% reduction in purchase and reprogramming costs for nanobots.

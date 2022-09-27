@@ -1,0 +1,12 @@
+- Produces modular nuclear reactors.
+-
+- Fission Frontiers operates as both a modular reactor seller and a design contractor for reactor design. While they sell thermal-neutron-spectrum reactors for the terrestrial market, the promote fast reactors for off-world applications: they claim that the longer servicing periods, lower waste production, and higher power densities are ideal for space settlements.
+- Available as off-the-shelf units, Fission Frontiers sell modular reactors with the following specifications:
+	- Molten-salt cooled, pebble-bed, thermal, uranium fuelled VHTR producing 1 GWt at an outlet temperature of 1300 K: $1,900,000,000; 1,100,000 kg
+	- Lead cooled, fuel rod, uranium fuelled fast breeder reactor, producing 2 GWt at an outlet temperature of 1100 K: $1,200,000,000; 2,000,000 kg
+	- Forced convection, fuel rod, thermal, uranium fuelled PWR producing 1 GWt at an outlet temperature of 600 K: $900,000,000; 740,000 kg
+	- Molten-salt cooled, pebble-bed, thermal spectrum LFTR (thorium cycle) producing 500 MWt at 950 K: $1,500,000,000; 1,140,000 kg
+	- Natural convection, fuel rod, thermal, uranium fuelled LWR producing 250 MWt at 600 K; $300,000,000; 720,000 kg
+- Fission Frontiers pride themselves on rising to any design challenge when it comes to reactors, however such projects are expensive due to the demands to reactor safety-case approval. Consultation is required for the provision of a quote.
+- The electrical generation must be performed using a Rankine cycle, however the choice of working fluid is left to the customer (it must be liquid at the operating temperature but can be at any pressure), as well as any bottoming cycles. It is acceptable to assume that the working fluid will reach 10 degrees lower than reactor outlet temperature. It is acceptable for design calculations utilising a generic Rankine cycle to assume that it achieves 0.7 * ηc, where ηc is the Carnot efficiency of the power-extration, between the maximum working fluid temperature, and the temperature of the heat sink.
+- Customers must ensure that they have heat-rejection capacity equal to 1.5 times that of the rated thermal power of the reactor in order to be compliant with the safety-case (the heat rejection occurs after the power extraction by the turbine, not from the reactor vessel itself).

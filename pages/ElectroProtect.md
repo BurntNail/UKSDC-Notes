@@ -1,0 +1,6 @@
+- Produces components/shielding for special conditions.
+-
+- ElectroProtect build components for circuitry that can withstand space environments and shielding or protective boxes for components and circuits that cannot be built to withstand local environments.
+- ElectroProtect stock components run at the same price as the unprotected variants while custom hardware runs at approximately twice the price as unprotected equipment. ElectroProtect charges a yearly membership fee of $400,000 for access to its services and shipping is not included from its Bellevistat manufacturing facility.
+-
+- Thanks to the licencing of Flussmitteldurchlässig-VII to ElectroProtect by #[[kepler Automation]] , giving the former a significant market advantage, #[[kepler Automation]] is offered significant discounts by ElectroProtect. Due to Foundation Society Rules, #Kepler may only quote a 20% reduction in the price of ElectroProtect products due to this link.

@@ -1,0 +1,5 @@
+- Provides Solar System Transport.
+-
+- OMTC Transport Services is a branch of Olympus Mons Trading Company, responsible for managing all the transport operations we are involved in. Due to logistical efficiency, we are able to reduce transfer costs of all cargo we handle by 2% for our customers, charging a flat fee of $2,500,000 for this service per project. We do not currently have the facilities to handle IHPC vehicles though and so these reductions do not apply to IHPCs.
+-
+- As stated on the OMTC webpage, #[[Olympus Mons Trading Company]] are able to claim a greater reduction in costs using OMTC Transport Services.

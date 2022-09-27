@@ -1,0 +1,3 @@
+- Provides seeds/cuttings.
+-
+- Svalbard seeds sell all types of seed and cutting at a price of $1 dollar per 100 seeds or cuttings. It is required that these seeds be transported in refrigerated containers to prevent them from germinating before being planted. Customers are also informed that it is standard for around 50% of seeds not to grow properly, and so to order appropriately.

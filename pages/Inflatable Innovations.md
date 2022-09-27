@@ -1,0 +1,3 @@
+- Produces inflatable buildings to spec for $(15,000 + (600*Volume))
+-
+- Inflatable Innovations specialises in making inflatable buildings to customer specifications, to enable quick construction of new communities. Although these structures are not intended for permanent or indefinite use, they provide shelter for residents to start new economic activities, until more durable solutions can be established. They are manufactured at Bellevistat for the customer’s collection. The company charges for construction of inflatable facilities at a rate determined by cost = 15,000 + (600*V), where V is the enclosed volume in m3. The shelters provide no protection against radiation but are 90% thermally insulative.

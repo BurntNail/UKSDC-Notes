@@ -1,0 +1,6 @@
+- Produces orbiting structures for reflecting sunlight.
+-
+- The company provides huge orbiting structures that reflect sunlight during the night or during eclipses. The devices consist of sodium-coated fabric made from lunar materials stretched over lightweight composite structures and are constructed in 4,000 km lunar orbits. Six lunettas (each 1 km2, each cost $120,000,000) enable ground-based solar power plants to operate all night.
+- Lightworks has also purchased the Solaris constellation from Da Vinci Meccanica, which is a constellation of 24 satellites orbiting in Medium Earth Orbit. These satellites are able to transfer power to microwave rectanna within 450,000km of their orbit, as long as they have a clear line of site, as the exceptionally low price of $100,000 per GWh.
+-
+- Due to an excellent relationship between #[[Da Vinci Meccanica]] and Lightworks CEO Light Amahara following the sale of Solaris, the former is entitled to a 20% discount when using Lightworks services for Foundation Society contracts.

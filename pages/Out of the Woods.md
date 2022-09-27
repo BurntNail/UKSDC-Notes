@@ -1,0 +1,4 @@
+- Produces trees for CO2 removal.
+-
+- Out of the Woods is a small organisation that operates one of only a handful of off-world tree farms. They are based at Balderol and produce their wood as by product from their main task of CO2 removal.
+- They sell a huge variety of wood from Oak to Purple Heart cut into regular sizes for an average of $500 per cubic metre. However, their manufacturing capacity is limited to 8 tonnes of exports a year.

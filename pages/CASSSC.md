@@ -1,0 +1,3 @@
+- What is a CASSC:
+	- CASSSCs are 9 metres long with square 4.5 metre cross-sections and weigh 1 metric tonnes each when empty. Generic CASSSCs are aluminium, fully enclosed and vented to permit pressure equalisation, however special CASSSC’s can be whatever customers choose within standard size and interface constraints, including pressurised, open framework or made of composite materials. CASSSCs, thanks to Foundation Society backing, are now available from distribution facilities at all major Foundation Society settlements and transportation hubs.
+	  id:: 63335c10-757f-4239-bc2d-23bbb0cca88b

@@ -1,0 +1,5 @@
+- Produces a soft-magnetic titanium alloy with 1250MPa and TS of 2000MPa.
+-
+- EAI-Skunkworks’ primary product is a soft-magnetic titanium alloy. The material achieves a yield strength of 1250 MPa, and an ultimate tensile strength of 2000 MPa at standard conditions. These strengths halve every 600 degrees, up to its melting point of 2023 K. The density and other mechanical properties are equivalent to other high-performance titanium alloys. The excellent thermal performance is believed to be due to the formation of a solid solutions of nickel within the metal structure, although the exact chemical composition is clearly a trade-secret! However, you can purchase this material for only $40/kg from EAI-Skunkworks for use in all your space related applications.
+-
+- Subset of #[[Earhart Advanced Industries]] so can get 20% off for Foundation Society contracts.

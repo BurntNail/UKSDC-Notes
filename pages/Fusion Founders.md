@@ -1,0 +1,6 @@
+- Produces large power plants - needs a spec first.
+-
+- Although Fusion Founders can assemble large municipal power plants at customer-specified sites, its most popular product is a self contained unit that can be shipped in a modified version of a C-18 transport aircraft, and installed by local labour with supervision of a company engineer.
+- The unit, weighing 90.8 tonnes, includes a 5.2 metre diameter sphere, it’s 24.4 metre long turbine ‘barn’ and support ‘shed’. The system is shipped pre assembled and generates a heat output of 30 MW. The plant operates at an efficiency of 70% of the Carnot efficiency. The maximum temperature of the effective hot reservoir is 1,300K.
+	- The cost of such a unit excluding heat dissipation systems is $60,000,000. The reactor must be shut down every 1,200 hours for maintenance of the containment chamber (requires plating replacement every other maintenance period on average) and to refurbish the cermet turbine blades. The reactor containment requires a constant power input of 5 MW while running and 6MW during the 1 hour start-up period.
+- Fusion Founders require a full schematic and report of cooling measures before agreeing to install, for legal liability reasons.

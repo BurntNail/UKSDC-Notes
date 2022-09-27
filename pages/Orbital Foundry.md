@@ -1,0 +1,4 @@
+- Buys ores, and processes them.
+-
+- Orbital Foundry accepts ores from off world mining operations, refines the metals and produces rolled sheets, extruded beams and custom shaped parts manufactured by cutting or turning processes.
+- Orbital Foundry is capable of a throughput of 2,000 kg of product per hour, charging $0.15 per kg of ore given and processed through them or $0.20 per kg directly bought. They have processing facilities on Earth, Bellevistat, and Alaskol. They will not pay for shipping of products or stock for customers.

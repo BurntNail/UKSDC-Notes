@@ -1,0 +1,5 @@
+- Produces wearables.
+-
+- ARNO modules may be designed to customer specification and are designed to fit within any standard clothing or accessory, provided the volume exceeds 3cm^3. Customers are required to detail the form factor with engineering drawings, including detailing the available enclosed volume within which to fit the electronics. Modules come at a cost of $1000 each, although a 5% reduction is offered if more than 25 identical modules are purchased, and 10% if more than 50 identical modules are purchased.
+-
+- #[[Da Vinci Meccanica]] are able to aquire ARNO modules for only 80% of the listed price due to their involvement in the design and manufacture of the devices.

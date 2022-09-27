@@ -1,0 +1,6 @@
+- Produces Spacesuits, etc.
+-
+- Extreme Survival Technologies (EST) build spacesuits, and pressurised fabric furniture and impact protection systems (e.g. airbags and restraints) from its Alaskol facility. Its series of custom inflatable products are not rated for extravehicular use but cost only $500 dollars per m3 enclosed.
+- EST’s most popular products are its spacesuits however, with the most popular model being a hard shell suit customised for lunar operations but frequently used for other applications. Efficiencies of line production enable $9,000 unit costs. They are particularly well designed to deal with the dust of lunar and Martian operations.
+-
+- EST offer a substantial cost reduction on their products to #Condor in thanks for the latter’s zero-cost patent-licensing scheme which has allowed EST to use their dust-tolerant seal designs. #Condor are able to quote a 20% saving on EST products thanks to this relationship.

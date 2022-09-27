@@ -1,0 +1,4 @@
+- Provides fish eggs.
+-
+- CRISPR Cod sells its fish eggs at a competitive average price of $500 per 1kg(~3,000 eggs), presuming safe transportation, the fish are guaranteed to provide greater yields of produce with greater resistance to parasites and diseases.
+- In efforts to curb the potency of the release of any genetically modified organisms into the greater environment, each fish has had its reproductivity slightly diminished, meaning that a colony of fish will decrease slightly with each generation requiring a regular top up of eggs.

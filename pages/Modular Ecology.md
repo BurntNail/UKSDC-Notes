@@ -1,0 +1,5 @@
+- Provides Potable Hydroponic & Aeroponic Systems
+-
+- Modular Ecology manufactures potable hydroponic and aeroponic ecosystems at Alexandriat for sustaining long duration spaceship crews. The modules attach to the exterior of a ship, over an airlock that would normally go to vacuum. New inter-orbit spacecraft are designed with appropriate interfaces as standard.
+- Use of a Modular Ecology system requires that two crew members be trained to work the farm for one hour per day on average, mostly to harvest food for each day’s meals from chicken-based or agricultural systems. These deliver grains, vegetables, fruit, meat and eggs. The systems require bi-annual maintenance to replenish water and nutrients, introduce non-inbred animals, and replace plant species that have died off.
+- Sizes are available for crews of five ($3,000,000), eight ($4,000,000), and twelve ($5,000,000) while special orders are reactively fulfilled. Specialised installations for more than 1000 people can be ordered for $75,000 per person plus a base charge of $12,000,000.

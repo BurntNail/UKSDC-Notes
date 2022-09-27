@@ -1,0 +1,3 @@
+- Produces paint and coatings for air-tight surfaces on rock, SuperAdobe and porous surfaces for $55/litre.
+-
+- Sealant Advancements makes paint and coatings from near-Earth asteroid mined materials that provide air-tight surfaces on rock, SuperAdobe and other porous surfaces. Application is done with standard paintbrushes or aerosols and the surface requires 30 Earth days to dry before being capable of retaining air. These are produced at Bellevistat where the company holds a stock of 50,000 litres priced at $55 per litre. To be effective the paint requires a coating thickness of 0.5 mm and it has a density of 2,000 kgm-3. An indefinitely sized layer of the coating can only bear a pressure difference of 100 Pa when unsupported.

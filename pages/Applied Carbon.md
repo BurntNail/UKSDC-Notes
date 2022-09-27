@@ -1,0 +1,3 @@
+- Produces plastics, from recycled, and will buy carbon.
+-
+- Applied Carbon is an independent supplier of plastics based out of Liberty. Their products are completely sourced from reprocessed waste carbonaceous material and as such generally have only 90% of the value of the property of the plastic they seek to emulate. The price of the material is generally 70% of the price of the new material, not including shipping. Plastics are available as sheets, extruded beams or pellets for injection moulding. They will buy waste structured carbon (e.g. wheat sheaves) delivered to them for $2.50 per kg.

@@ -1,0 +1,11 @@
+alias:: AdMaG
+
+- Provides uniformed bulk material.
+-
+- AdMaG produces unformed bulk material to customers’ or their own specifications. Their own products include a transparent PMMA equivalent with a working temperature up to 675 K (this can be used in windows by applying the formula from Adaptive Allotropy with a σmax of 70 MPa), and a space rated carbon-nanotube-mesh reinforced polycarbonate with a maximum temperature of 500 K and a yield strength of 130 MPa. These materials have densities of 1,190 kgm-3 and 1,240 kgm-3 and prices of $1.60 per kg and $0.85 per kg respectively.
+- AdMaG regularly produces specialist orders to customer specifications at their sites around the solar system. They can source materials themselves, charging the market rate for materials plus $0.05 per kg sourced and shipping costs of said materials, or receive materials directly from the customer. They charge $7.50 per kg of material produced to customer specifications, with a minimum contract size of 5 tonnes of material. Specialist orders of structured composites are produced formed with an added fee of $5 per kg.
+- AdMaG sells silica, carbon, and alumina aerogels at a price of only $2,000 per kg. These are produced on-site with specialist equipment. The transport of the equipment and raw stock is included in the price of the material, but a minimum order size of 30 kg is in place. This aerogel is increasingly being used as a filler material between the layers of Whipple shield panel.
+- AdMaG processes their plastics, composites, and aerogels at Liberty, a Martian Mining Settlement, and Arial respectively.
+- AdMaG are the sole manufacturers and distributors of Flusshalt-X, a polymer-based radiation shielding material designed by Kepler Automation. This material is available in 1o mm thick panels or can be formed like any other thermoplastic as required. As a rule of thumb, it has five times the linear attenuation coefficient of steel against all types of radiation. It has a density of 1,200 kgm-3 and is priced at $70 per kg.
+-
+- In return for licensing their Flusshalt-X radiation shielding material to AdMaG, #Kepler are able to claim significant discounts on it and other products manufactured by AdMaG. For Foundation Society contracts, this discount is limited to 20%.

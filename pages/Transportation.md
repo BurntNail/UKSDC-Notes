@@ -1,0 +1,14 @@
+- {{embed [[Aldrin Orbitals]] }}
+- {{embed [[Custom Cargo Accommodations]] }}
+- {{embed [[Consegna Veloce]] }}
+- {{embed [[Confirmed Couriers]] }}
+- {{embed [[Dangerous Packages]] }}
+- {{embed [[Earhart-VALIANT]] }}
+- {{embed [[Frozen Freightage]] }}
+- {{embed [[Interorbital Heavy Payload Carriers]] }}
+- A single IHPC craft can move over 1000 fully loaded CASSSCs at once to almost anywhere in the inner solar system through the use of efficient Hohmann transfers. These massive ships offer some of the lowest cargo fees of any transportation company, coming in at $3.95 per tonne per m/s of Delta V. The customer must make the necessary calculations of Delta V and account for the transport mass when booking cargo space on the ship.
+- Their spacecraft, due to their size, cannot dock with settlements and require specialist portside equipment that is only available at certain spaceports (Columbiat, Aresam, and Astoria) or require tugs to collect delivered CASSSCs from free space.
+- {{embed [[Condor MFR]] }}
+- {{embed [[OMTC Nix]] }}
+- {{embed [[OMTC Transport Services]] }}
+- {{embed [[SpaceTrans Inc]] }}

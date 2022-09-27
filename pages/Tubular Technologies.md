@@ -1,0 +1,5 @@
+- Produces Carbon Nanotubes up to 2km long for $(5 * length^2)
+-
+- Tubular Technologies, based on Alexandriat, is the industry-leading producer of carbon nanotubes for industrial and scientific uses, for both space-based and customers on Earth. The company has succeeded in making nanotube cross-linked strings up to 2 km long, although most applications are in the one to ten foot range. Nanotubes add strength to conventional materials; primary customers are manufacturers of construction elements (e.g. for buildings and bridges) and components for machinery, vehicles and tools.
+- Although the company is vigorously pursuing techniques to produce longer nanotubes, it is not yet able to achieve the 1,000-mile lengths required to build a cable that would withstand the tensile loads of a space elevator to Earth’s surface. However, given the experience the company gained from working on both the Arial settlement and OMTC Nix, it is only a matter of time before they fulfil their vision of an Earth-based space elevator!
+- Nanotubes are sold in 0.2mm diameter cables for a price given by $(5 * (length2)).

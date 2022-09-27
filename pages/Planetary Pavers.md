@@ -1,0 +1,4 @@
+- Produces road-building equipment for off-world.
+-
+- Planetary Pavers operates customised autonomous road-building equipment on off-world settlements. The company’s grading and paving machinery is solar powered with 14 Earth days of battery life for operation in darkness. Their capabilities include breaking rock to make gravel and sintering regolith to create a hard and smooth road surface. After a surface is levelled about 1km of paved surface can be completed every 24 hours.
+- Pricing is done based on the width of the road and the time taken for project completion. An initial contracting fee of $15,000,000 is levied followed by $1,000,000 per 20 metres width, rounded up, per day.

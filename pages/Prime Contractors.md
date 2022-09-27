@@ -1,0 +1,7 @@
+- See [UKSDC Page](https://uksdc.org/competition-resources/prime-contractors/)
+-
+- {{embed [[Earhart Advanced Industries]]}}
+- {{embed [[kepler Automation]]}}
+- {{embed [[Condor]]}}
+- {{embed [[Da Vinci Meccanica]]}}
+- {{embed [[Olympus Mons Trading Company]]}}
