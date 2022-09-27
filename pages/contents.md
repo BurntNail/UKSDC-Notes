@@ -1,6 +1,0 @@
-- [[Materials]]
-- [[Systems & Manufacturing]]
-- [[Electrical & Robotic]]
-- [[Life Support]]
-- [[Medical & Nutrition]]
-- [[Transportation]]
