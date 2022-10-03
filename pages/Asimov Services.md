@@ -1,0 +1,2 @@
+- Advanced Robotic Systems - Whilst they have not quite reached Asimov's lofty goals of positronic robots, almost any types of robot can be requested from the settlement at a cost of $1,000,000 per m^3 occupied (rounding up) per unit
+- Largest off-Earth Library - For those looking to get away from the digitalised world for a little while, Asimov offers the largest collection of physical books off-Earth and will only charge $500 per person per night to stay at the settlement and use this facility

@@ -1,0 +1,4 @@
+- Tourism - For $5000 per person per night, guests can enjoy the luxury of Aviv, with its low population density of 700 people per square kilometer, and its variety of biome themed landscapes, there is truly no more luxury stay within the solar system
+- Export of Foodstuffs - Producing more than 5 times the food it consumes, Aviv exports all food at a price of $1000 per kg, a not unreasonable price when you consider the reduced transport costs to many locations in the solar system
+- Acid Resistant Spacesuits - Due to the harsh atmospheric conditions on Venus, the team at Aviv have constructed acid-resistant hard-shell spacesuits for all EVA which they market for $20,000,000 per suit
+- Weather Prediction Software - Due to the strong winds and the effect this has on the Aerostats, Aviv has developed state of the art weather prediction, with 90% accuracy up to 18 days in advance, which they sell for $400,000,000 per year

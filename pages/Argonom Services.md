@@ -1,0 +1,3 @@
+- Major Manufacturing - Following a vast amount of investment into Mars-based refining techniques, Argonom is able to manufacture any products available on Earth for 0.9 times the cost
+- Base in a Box - This is a 20 [[CASSSC]] package that Argonom distributes for a cost of $25,000,000,000 that contains a functional 10 person settlement, complete with power and ECLSS systems to help settlements get off the ground
+- Mars Access and Super Heavy Lift Capacity - Operating out of the caldera at the peak of Ascreaus Mons, Argonom has a set of launch pads capable of supporting heavy lift vehichles for mass transport of people, to augment the space Elevator in the same location used for Cargo Transport to Mars

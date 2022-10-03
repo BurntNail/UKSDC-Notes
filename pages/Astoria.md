@@ -1,0 +1,9 @@
+- #[[Mining Settlement]]
+-
+- Initial Operating Capacity Achieved – 2077
+- Location – Moving between asteroids in The Asteroid Belt for mining purposes
+- Initial Population – 4000
+- Predicted Population in 2100 – 5000 + 500 transients
+-
+- [[Astoria Services]]
+- [[Astoria Background]]

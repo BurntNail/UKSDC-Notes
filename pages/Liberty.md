@@ -1,0 +1,9 @@
+- #[[Tourism & Education Settlement]]
+-
+- Initial Operating Capacity Achieved – 2028
+- Location – 380km Low Earth Orbit
+- Initial Population – 500
+- Predicted Population in 2100 – 500 + 500 transients
+-
+- [[Liberty Services]]
+- [[Liberty Background]]

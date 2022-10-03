@@ -1,0 +1,9 @@
+- #[[Transport & Manufacturing Hub]]
+-
+- Initial Operating Capacity Achieved – 2065
+- Location – 1km below the summit of Ascreaus Mons
+- Initial Population – 10,000
+- Predicted Population in 2100 – 22,000 + 4000 transients
+-
+- [[Argonom Services]]
+- [[Argonom Background]]

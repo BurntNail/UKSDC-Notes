@@ -1,0 +1,2 @@
+- Meissner Tetrahedra Wheels - Allowing for motion in all directions, these wheels car be of particular use for vehicles that need to move sideways as well as forwards and they sell for only $30 per wheel
+- Self-lubricating Reardonium Bearings - Selling for 5 times the price of standard bearings, Reardonium bearings are self-lubricating in a space environment, making them especially suited to tasks where they will be subject to constant use, with limited opportunity for maintenance

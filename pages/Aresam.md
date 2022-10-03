@@ -1,0 +1,9 @@
+- #[[Cargo Handling Settlement]]
+-
+- Initial Operating Capacity Achieved – 2065
+- Location – 300km Low Martian Orbit
+- Initial Population – 4000
+- Predicted Population in 2100 – 9000 + 1000 transients
+-
+- [[Aresam Services]]
+- [[Aresam Background]]

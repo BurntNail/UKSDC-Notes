@@ -1,0 +1,9 @@
+- #[[Foundation Society HQ]]
+-
+- Initial Operating Capacity Achieved – 2070
+- Location – South Pole of Venus in order to avoid the high wind speeds near the equator
+- Initial Population – 2000
+- Predicted Population in 2100 – 6000 + 300 transients
+-
+- [[Asimov Services]]
+- [[Asimov Background]]

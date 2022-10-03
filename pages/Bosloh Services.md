@@ -1,0 +1,3 @@
+- Titanium alloy that can withstand 1300 degrees celcius - For only 1.2 times the cost of pure titanium, Bosloh will provide a high temperature titanium alloy
+- Rapid Setting Concrete - Bosloh will export rapid setting concrete that will set 3 minutes after being poured for a price of $200 per m^3
+- Consultation for maglev trains - With maglev trains connecting all the separate lava tubes comprising Bosloh and no risk of leaves on the line, the settlement is renowned within the solar system for its knowledge of this technology and rail-based transport in general. For more information, please contact a Technical Adviser

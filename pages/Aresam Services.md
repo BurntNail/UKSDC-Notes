@@ -1,0 +1,4 @@
+- Freight Handling - Aresam may dock up to 5 IHPCs at a time, allowing a through put of 10,000 [[CASSSC]]s per hour charging a fee of $4 per [[CASSSC]] handled
+- Access to [[Argonom]] - Through the use of [[OMTC Nix]], Aresam may easily transport cargo to [[Argonom]], with people being sent down by spacecraft at a cost of $100 per person
+- Mars Emergancy Response - Aresam is able to house up to 10,000 additional people in the case of an emergancy on the Martian surface
+- On-Orbit Construction - All major construction processes may be carried out at Aresam, although it may only be supplied by [[CASSSC]]s for raw materials

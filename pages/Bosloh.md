@@ -1,0 +1,9 @@
+- #[[Research & Manufacturing Settlement]]
+-
+- Initial Operating Capacity Achieved – 2074
+- Location – Hermian Lava Tubes
+- Initial Population – 10,000
+- Predicted Population in 2100 – 25,000 + 3000 transients
+-
+- [[Bosloh Services]]
+- [[Bosloh Background]]

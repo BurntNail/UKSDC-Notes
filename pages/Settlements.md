@@ -1,0 +1,17 @@
+- [https://uksdc.org/competition-resources/settlements/](UKSDC Page)
+-
+- {{embed [[Freedom]]}}
+- {{embed [[Liberty]]}}
+- {{embed [[Anaximandah]]}}
+- {{embed [[Aresam]]}}
+- {{embed [[Argonom]]}}
+- {{embed [[Aperioh]]}}
+- {{embed [[Asimov]]}}
+- {{embed [[Benevectoras]]}}
+- {{embed [[Aesop]]}}
+- {{embed [[Bosloh]]}}
+- {{embed [[Astoria]]}}
+- {{embed [[Aviv]]}}
+- {{embed [[Cecilioh]]}}
+- {{embed [[Bradburyom]]}}
+- {{embed [[Cassandras]]}}

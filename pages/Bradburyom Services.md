@@ -1,0 +1,2 @@
+- Basic Terraforming Capabilites - Given a period of 5 years and a budget of $50,000,000,000, the team at Bradburyom are able to terraform an enclosed area of radius 500m for human occupation
+- Small Scale Environment Construction - For environments with a radius of less than 50m. terraforming may be performed in under a year, and for a radius of 100m this time period is 2 years, and price scales with radius from the above values

@@ -1,0 +1,2 @@
+- Transport Hub for the Hermian System - Spacecraft may dock at Anaximandah for a fee of $12,000 per Earth day in order to allow people and cargo to enter the Hermian System
+- Solar Activity Monitoring and Modelling - For an annual fee of $1,000,000,000, the team at Anaximandah will provide their Solar Activity Prediction Software, allowing Coronal Mass Ejections and Solar Flares to be predicted 6 hours in advance

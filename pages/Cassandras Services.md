@@ -1,0 +1,3 @@
+- Earth-Mars Passenger Transport - for a price of $2000 per person per day of travel, this cycler allows for luxury and rapid shirtsleeves transport between Earth and Mars
+- Tourism - Advertised as the high class method of transport between Earth and Mars, Cassandras has all of the facilities that you would expect to find in a prosperous Earth- based city, as well as a dedicated team of staff who will help guests have the most comfortable possible stay
+- On-orbit Construction - Despite primarily being a passenger transport, 10 members of staff are qualified construction equipment operators and can be hired for basic on-orbit construction at a fee of $15,000 per day

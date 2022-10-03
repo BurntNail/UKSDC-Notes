@@ -1,0 +1,3 @@
+- Tourism - Guests will be able to stay at Aesop for a 4 day vacation at a cost of $3000 per person
+- Art exhibitions - With Aesop being home to the largest art collection in the solar system, it offers incredible art exhibitions, with the perfectly reasonable entry fee of only $25 per person
+- Aesop is home to a [[CASSSC]] depot that is capable of holding up to 500,000 [[CASSSC]]s with the ability to access any stored [[CASSSC]] in under 5 minutes. [[CASSSC]] handling of this quality comes at a cost of $10 per day per [[CASSSC]] stored plus a $25 per CASSSC flat fee.

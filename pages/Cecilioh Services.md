@@ -1,0 +1,3 @@
+- Nuclear Fuel Exports - Uranium and Thorium fuels are sold at $20,000,000 per kg, but approval must first be sought from a Technical Adviser who will analyse your safety considerations
+- Maglev train connection to Bosloh - Cecilioh is the first step on the way to all Hermian surface settlements, and fees for the connection to Bosloh are $100 per person
+- Solar Panel Research - For further information, please contact a Technical Adviser

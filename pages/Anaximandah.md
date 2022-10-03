@@ -1,0 +1,9 @@
+- #[[Research Settlement]]
+-
+- Initial Operating Capacity Achieved – 2060
+- Location – 200km Low Hermian Orbit
+- Initial Population – 1000
+- Predicted Population in 2100 – 3000 + 250 transients
+-
+- [[Anaximandah Services]]
+- [[Anaximandah Background]]

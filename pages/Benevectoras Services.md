@@ -1,0 +1,4 @@
+- Mass Driver - For a cost of $10,000/tonne , Benevectoras' mass driver can rapidly offload cargo as it passes by Earth and Mars
+- Shirtsleeves Transport to Mars - View subcontractor Aldrin Orbitals for more information
+- Earth to Mars Freight Transport - $1000/tonne per day of the 146 day transit between the 2 planets
+- Astronaut Training Camp - the 146 day course is a rapid Astronaut qualification, avoiding the usual lengthy process by maximising hands on learning for a fee of $120,000 plus transport costs as per Aldrin Orbitals

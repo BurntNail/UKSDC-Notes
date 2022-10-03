@@ -1,0 +1,9 @@
+- #[[Manufacturing & Terraforming Hub]]
+-
+- Initial Operating Capacity Achieved – 2091
+- Location – Dao Vallis, North-eastern Edge of Hellas Basin
+- Initial Population – 16,000
+- Predicted Population in 2100 – 18,000 + 2500 transients
+-
+- [[Bradburyom Services]]
+- [[Bradburyom Background]]

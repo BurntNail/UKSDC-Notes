@@ -1,0 +1,9 @@
+- #[[Tourism & Research Settlement]]
+-
+- Initial Operating Capacity Achieved – 2083
+- Location – Flying Aerostats at altitudes of between 30 and 50km in the Venusian Atmosphere
+- Initial Population – 8000
+- Predicted Population in 2100 – 11,000 + 1000 transients
+-
+- [[Aviv Services]]
+- [[Aviv Background]]
