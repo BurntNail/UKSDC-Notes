@@ -1,3 +1,5 @@
+alias:: Subcontractor
+
 - See [UKSDC Page](https://uksdc.org/competition-resources/subcontractors/)
 -
 - [[Materials]]

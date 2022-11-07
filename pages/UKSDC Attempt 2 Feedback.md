@@ -1,0 +1,71 @@
+- Estimating Costs:
+	- Get in the right OOM.
+	- Possibly use a spreadsheet.
+	- If you can use a [[Subcontractor]], do, else just get the current costs, downscale and give a reasonable reason.
+	- There is a bit of 'artistic license', so make an end figure and fiddle around a bit
+- Getting technical info:
+	- Look at NASA stuff - [https://ntrs.nasa.gov/](https://ntrs.nasa.gov/)
+	- Look at journals.
+		- Sort by style - eg. press release
+	- Look at BSA
+	- You don't need to go to Uni/Doctorate levels of detail
+	- You could even use Wikipedia, Wired, Space.com, or even Ars Technica.
+- General Feedback:
+	- A lot better than last time
+	- Nice diagrams
+	- Try to make as much as possible in house.
+	- Think like a company, don't just tell it, sell it - https://solarsystem.nasa.gov/resources/682/space-tourism-posters/
+	- Good to have RFPs/Page Nos on each page
+-
+- Look at [https://ntrs.nasa.gov/citations/20160005963](https://ntrs.nasa.gov/citations/20160005963)
+-
+- Specific Slides:
+	- S0
+		- Nice Logo
+	- S1
+		- Nice Table
+		- But worried about right-middle photo
+		- Nice citations
+		- Missing some dimensions, but nice otherwise
+	- S2 - Nice
+	- S3
+		- Lovely render
+		- Maybe some more about each material
+		- Outer-Inner on the diagonal
+	- S4
+		- Always clarify/add context
+		- Maybe other uses of water
+	- S5 - Nice
+	- S6
+		- Maybe flow charts/diagrams
+	- S7
+		- Type the labels
+		- Dimensions would be preferable
+		- But nice scale
+	- S8
+		- Double check uses of high pctg of $\ce{O_2}$
+		- Low pressure nice, but can have side effects like boiling point so watch out or mention
+	- S9
+		- Don't worry about stock photos, these were broadly appropriate.
+	- S10
+		- US History, eg. Skylab
+		- Possible workout regimens
+	- S11
+		- Digital Packages
+		- Local Server?
+		- Social Aspect
+		- Design of Space influences social
+			- Bulbs vs LEDs
+			- Natural Light
+			- Open/Closed Spaces
+			- Greenery
+	- S12
+		- Maybe digital labels
+		- Maybe mention rads etc.
+	- S13
+		- Possible diagrams on site office transformations
+	- S14
+		- Thermopumps are a W
+		- Possibly more details, eg. location of pressure vessels
+	- S15
+		- More robot details, maybe [https://www.nasa.gov/astrobee/](https://www.nasa.gov/astrobee/)
